@@ -6,4 +6,3 @@ Contents:
   -> Part 2: gathering data overiview and practice exercises
   -> Part 3: assessing data overview and practice exercises
   -> Part 4: cleaning data overview and practice exercises
-  -> Part 5: final project
